@@ -16,7 +16,7 @@
 
   ***********************************************************************************
   Arduino Library for WaveLamp is under-development and will be released soon. This 
-  will elimininate the need of including all functions in the code. #Include the 
+  will eliminate the need of including all functions in the code. #Include the 
   library and call the function.
   ***********************************************************************************
 
