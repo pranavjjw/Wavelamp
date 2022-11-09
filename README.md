@@ -3,16 +3,13 @@
   Music Reactive lamp with individually addressable pixel rings.
 
 
-  This is the main frame code. Functions for different light movements and colors 
-  have been pre-programmed. Full list of functions() can be found in the readme file
-  located in the git repository. You can create your own light designs by tweaking 
-  functions. Replace the '0' with 'val' to turn on a particular LED and vice-a-versa.
+  Functions for different light movements and colors have been pre-programmed. Full 
+  list of functions() can be found in the readme file located in the git repository. 
+  You can create your own light designs by tweaking functions. Replace the '0' with
+  'val' to turn on a particular LED and vice-a-versa.
   
   Adjust the int time variable to set the speed of light motion. By default it is set
   to 40 milliseconds.
-  
-  NOTE: This is not the full code. Please download the wavelamp.ino file for code with 
-  all inbuilt functions.
 
   ***********************************************************************************
   Arduino Library for WaveLamp is under-development and will be released soon. This 
